@@ -1,6 +1,6 @@
 ## :triangular_flag_on_post: Creational (Yaratımsal) Tasarım Desenleri
 
-![](images/1-creational tasarım deseni.png)
+![](images/1-creational%20tasarım%20deseni.png)
 
 <b> Creational (Yaratımsal) Tasarım Desenleri, nesne yaratım işlemleriyle ilgili problemlere çözümler sunan tasarım desenleridir. Bu desenler, nesne yaratım işlemlerini daha esnek ve ölçeklenebilir hale getirirler.
 

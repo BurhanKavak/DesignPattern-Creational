@@ -3,4 +3,4 @@
 
 **Bu tasarım deseninde, nesne yaratım işlemleri, üst sınıflardan ayrılan alt sınıflara bırakılır. Bu alt sınıflar, ilgili nesneleri yaratmak için farklı yöntemler kullanabilirler. Böylece, nesne yaratım işlemi, alt sınıflar tarafından kontrol edilerek, daha esnek ve ölçeklenebilir hale getirilir.**
 
-![](../images/2-creational tasarım deseni UML.png)
+![](../images/2-creational%20tasarım%20deseni%20UML.png)
