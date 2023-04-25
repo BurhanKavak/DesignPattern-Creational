@@ -2,8 +2,8 @@ package factory;
 
 import abstractt.AbstractFactory;
 import abstractt.Computer;
-import imp.MsiDesktop;
-import imp.SamsungDesktop;
+import impl.MsiDesktop;
+import impl.SamsungDesktop;
 
 public class DesktopFactory extends AbstractFactory {
     @Override
