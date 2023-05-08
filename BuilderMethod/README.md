@@ -1,0 +1,7 @@
+## :heavy_check_mark: Builder Method
+
+**Nesne tabanlı programlamanın özü sınıflara dayanır. Sınıflardan nesneler yaratırız. Bunu yapmak için de constructorları kullanırız. Sınıfımızda bulunan field sayısı fazla olursa bundan dolayı birden çok constructora ihtiyaç duyabiliriz. Haliyle her bir field eklendiğinde yeni bir constructor ekleme ihtiyacı hissedebiliriz. Çünkü nesneyi oluştururken hangi field başta atama yapılacak ya da yapılmayacak bilemeyebiliriz. İşte bu uzayıp giden parametre sayısından, karmaşık constructorlardan kurtarmak için Builder Pattern güzel bir çözüm sunuyor. Peki nedir bu Builder Pattern?**
+
+**Builder Tasarım Deseni, Creational (Yaratımsal) Tasarım Desenleri kategorisinde yer alan bir tasarım desenidir. Bu desen, nesne yaratmayı daha esnek ve okunaklı hale getirmek için kullanılır. Builder Tasarım Deseni, bir nesne örneğinin yaratılması için bir adım adım süreç belirler ve her bir adımın ayrı bir nesne örneği oluşturmasını sağlar.**
+
+**Builder Tasarım Deseni, özellikle, karmaşık nesnelerin yaratılmasında kullanılır. Bu tasarım deseni, nesne örneğinin yaratılması için bir arayüz sağlar ve nesne örneği yaratma işlemini bu arayüz aracılığıyla gerçekleştirir. Böylece, nesne yaratma işlemi daha esnek hale gelir ve nesnenin yapısı kolayca değiştirilebilir.**
