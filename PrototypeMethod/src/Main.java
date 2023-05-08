@@ -12,7 +12,7 @@ public class Main {
         List<String> list = empNew.getEmpList();
         list.add("Busenur");
         List<String> list1 = empNew1.getEmpList();
-        list.remove("Asım");
+        list1.remove("Asim");
 
         System.out.println("emp List: "+emps.getEmpList());
         System.out.println("empNew List:" + list);
